@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|e:\\pru212\\1_pru212\\04_phamtandat_lab2\\pru212_lab2\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|e:\\pru212\\1_pru212\\04_phamtandat_lab2\\pru212_lab2\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\assets\\scripts\\timecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\assets\\scripts\\trickforscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trickforscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\assets\\scripts\\gamescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\assets\\scripts\\detectplayercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\detectplayercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\assets\\scripts\\birdcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\birdcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\assets\\scripts\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59D90AB-39FA-D2EE-59C4-0035CDC5E085}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:37:53.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LevelMenu.cs",
+              "DocumentMoniker": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\LevelMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelMenu.cs",
+              "ToolTip": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\LevelMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:02:52.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BirdControl.cs",
+              "DocumentMoniker": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\BirdControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BirdControl.cs",
+              "ToolTip": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\BirdControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BirdControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:22:42.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetectPlayerCollision.cs",
+              "DocumentMoniker": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\DetectPlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DetectPlayerCollision.cs",
+              "ToolTip": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\DetectPlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DetectPlayerCollision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:50:29.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwHMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:50:18.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameScore.cs",
+              "DocumentMoniker": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\GameScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScore.cs",
+              "ToolTip": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\GameScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScore.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:50:16.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:50:14.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrickForScore.cs",
+              "DocumentMoniker": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\TrickForScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrickForScore.cs",
+              "ToolTip": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\TrickForScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrickForScore.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:50:11.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeCounter.cs",
+              "DocumentMoniker": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\TimeCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimeCounter.cs",
+              "ToolTip": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\TimeCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimeCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:50:09.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerControl.cs",
+              "DocumentMoniker": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControl.cs",
+              "ToolTip": "E:\\PRU212\\1_PRU212\\04_phamtandat_lab2\\PRU212_Lab2\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControl.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:48:04.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
